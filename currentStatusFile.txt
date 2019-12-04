@@ -1,0 +1,6 @@
+pot_id,239
+cur_stop,2
+cur_side,0
+on_the_balance,0
+on_the_balance,1
+on_the_balance,0

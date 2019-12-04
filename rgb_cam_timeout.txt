@@ -1,0 +1,4492 @@
+get RGB acquiring timeout.
+time: 2018-8-3-15-2-26-548
+77
+bri-301_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-3-15-9-30-476
+80
+bes1-D_H_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-3-15-11-23-677
+81
+max2-1_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-3-15-18-53-303
+86
+wrky54t-nbr1-1_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-3-15-26-6-194
+90
+SINAT-RNAi_W_174.96_4
+get RGB acquiring timeout.
+time: 2018-8-3-15-28-4-12
+91
+SINAT-RNAi_H_174.96_4
+get RGB acquiring timeout.
+time: 2018-8-3-15-30-2-1
+92
+SINAT-RNAi_W_82.51_4
+get RGB acquiring timeout.
+time: 2018-8-3-15-30-12-923
+92
+SINAT-RNAi_W_82.51_4
+get RGB acquiring timeout.
+time: 2018-8-3-15-37-28-555
+96
+atg7-2_W_174.96_4
+get RGB acquiring timeout.
+time: 2018-8-3-15-37-38-822
+96
+atg7-2_W_174.96_4
+get RGB acquiring timeout.
+time: 2018-8-3-15-43-11-653
+99
+wrky54t-nbr1-1_W_82.51_4
+get RGB acquiring timeout.
+time: 2018-8-3-16-4-55-529
+111
+DSK2-RNAi_H_174.96_4
+get RGB acquiring timeout.
+time: 2018-8-3-16-52-28-765
+127
+atg7-2_W_82.51_5
+get RGB acquiring timeout.
+time: 2018-8-3-17-3-36-775
+135
+SINAT-RNAi_W_174.96_5
+get RGB acquiring timeout.
+time: 2018-8-4-10-17-14-907
+32
+wrky54t_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-4-10-26-25-80
+37
+nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-4-11-14-35-585
+65
+atg7-2_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-4-11-23-39-101
+70
+wrky54t_H_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-4-11-25-37-340
+71
+wrky54t_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-4-11-36-34-822
+78
+bes1-D_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-4-11-40-15-974
+80
+bes1-D_H_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-4-11-40-26-319
+80
+bes1-D_H_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-4-13-58-53-763
+164
+bes1-D_W_174.96_6
+get RGB acquiring timeout.
+time: 2018-8-4-14-15-12-935
+174
+max2-1_H_174.96_6
+get RGB acquiring timeout.
+time: 2018-8-4-14-22-38-404
+178
+nbr1-1_H_174.96_6
+get RGB acquiring timeout.
+time: 2018-8-4-14-47-34-147
+189
+nbr1-1_W_174.96_7
+get RGB acquiring timeout.
+time: 2018-8-4-14-51-22-232
+191
+nbr1-1_H_174.96_7
+get RGB acquiring timeout.
+time: 2018-8-4-14-51-34-420
+191
+nbr1-1_H_174.96_7
+get RGB acquiring timeout.
+time: 2018-8-4-15-7-54-441
+199
+wrky54t_W_174.96_7
+get RGB acquiring timeout.
+time: 2018-8-4-15-9-56-595
+200
+wrky54t_H_174.96_7
+get RGB acquiring timeout.
+time: 2018-8-4-15-24-9-970
+208
+DSK2-RNAi_W_174.96_7
+get RGB acquiring timeout.
+time: 2018-8-5-0-26-13-74
+6
+atg7-2_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-1-23-22-302
+42
+max2-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-1-38-53-916
+53
+wrky54t-nbr1-1_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-1-40-46-530
+54
+WT_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-1-56-14-336
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-5-2-3-11-400
+68
+SINAT-RNAi_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-5-2-5-4-827
+69
+wrky54t_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-5-2-12-4-416
+75
+bri-301_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-5-2-19-3-417
+78
+bes1-D_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-5-2-24-16-976
+82
+max2-1_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-5-3-39-23-177
+128
+atg7-2_W_174.96_5
+get RGB acquiring timeout.
+time: 2018-8-5-3-51-49-815
+137
+SINAT-RNAi_W_82.51_5
+get RGB acquiring timeout.
+time: 2018-8-5-3-52-0-378
+137
+SINAT-RNAi_W_82.51_5
+get RGB acquiring timeout.
+time: 2018-8-5-4-8-2-356
+148
+WT_W_82.51_5
+get RGB acquiring timeout.
+time: 2018-8-5-4-11-43-302
+150
+wrky54t-nbr1-1_W_82.51_6
+get RGB acquiring timeout.
+time: 2018-8-5-4-11-54-256
+150
+wrky54t-nbr1-1_W_82.51_6
+get RGB acquiring timeout.
+time: 2018-8-5-4-19-7-196
+155
+bri-301_W_82.51_6
+get RGB acquiring timeout.
+time: 2018-8-5-4-22-49-915
+157
+SINAT-RNAi_W_82.51_6
+get RGB acquiring timeout.
+time: 2018-8-5-9-29-11-834
+157
+SINAT-RNAi_W_82.51_6
+get RGB acquiring timeout.
+time: 2018-8-5-9-29-21-335
+157
+SINAT-RNAi_W_82.51_6
+get RGB acquiring timeout.
+time: 2018-8-5-9-39-17-435
+159
+WT_W_174.96_6
+get RGB acquiring timeout.
+time: 2018-8-5-9-43-14-603
+0
+bes1-D_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-9-45-2-895
+1
+bes1-D_W_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-9-48-39-582
+3
+SINAT-RNAi_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-0-7-625
+3
+SINAT-RNAi_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-6-55-261
+7
+atg7-2_W_82.51_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-8-45-153
+8
+atg7-2_W_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-10-35-172
+9
+DSK2-RNAi_W_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-12-24-16
+11
+DSK2-RNAi_W_82.51_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-45-47-25
+15
+max2-1_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-10-59-42-165
+16
+max2-1_W_82.51_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-20-58-972
+16
+max2-1_W_82.51_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-31-21-4
+19
+wrky54t_W_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-36-27-979
+24
+WT_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-38-16-376
+25
+WT_W_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-40-9-363
+26
+WT_W_82.51_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-41-58-519
+27
+nbr1-1_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-43-46-414
+28
+nbr1-1_W_82.51_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-45-36-845
+29
+nbr1-1_W_174.96_1
+get RGB acquiring timeout.
+time: 2018-8-5-11-47-30-443
+30
+wrky54t_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-11-50-57-827
+32
+wrky54t_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-11-51-7-854
+32
+wrky54t_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-11-53-1-152
+33
+SINAT-RNAi_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-11-54-56-964
+34
+SINAT-RNAi_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-5-38-53
+34
+SINAT-RNAi_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-9-59-493
+37
+nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-12-57-643
+40
+bri-301_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-14-28-258
+41
+bri-301_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-14-37-570
+41
+bri-301_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-48-11-834
+35
+SINAT-RNAi_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-52-13-354
+36
+nbr1-1_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-56-11-423
+36
+nbr1-1_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-56-21-617
+36
+nbr1-1_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-12-58-9-839
+37
+nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-20-16-33
+40
+bri-301_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-22-7-717
+41
+bri-301_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-27-3-46
+43
+max2-1_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-28-52-210
+44
+max2-1_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-32-17-366
+47
+DSK2-RNAi_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-36-4-178
+47
+DSK2-RNAi_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-13-49-14-131
+48
+atg7-2_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-14-3-23-179
+48
+atg7-2_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-14-5-26-306
+49
+atg7-2_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-14-7-17-924
+51
+wrky54t-nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-16-2-45-877
+51
+wrky54t-nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-16-7-18-605
+51
+wrky54t-nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-16-15-0-539
+51
+wrky54t-nbr1-1_W_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-16-16-54-41
+52
+wrky54t-nbr1-1_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-16-39-52-200
+52
+wrky54t-nbr1-1_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-20-39-34-933
+52
+wrky54t-nbr1-1_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-20-41-26-736
+53
+wrky54t-nbr1-1_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-20-43-21-439
+54
+WT_W_82.51_2
+get RGB acquiring timeout.
+time: 2018-8-5-20-45-15-244
+55
+WT_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-5-20-49-0-318
+55
+WT_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-6-1-20-8-365
+55
+WT_H_174.96_2
+get RGB acquiring timeout.
+time: 2018-8-6-11-39-32-489
+61
+DSK2-RNAi_W_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-6-11-41-31-859
+63
+atg7-2_H_174.96_3
+get RGB acquiring timeout.
+time: 2018-8-6-11-43-29-652
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-18-45-63
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-18-51-838
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-18-58-583
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-19-5-310
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-19-12-67
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-19-18-825
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-19-25-586
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-19-32-404
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-6-12-21-4-45
+64
+atg7-2_W_82.51_3
+get RGB acquiring timeout.
+time: 2018-8-7-10-6-8-462
+0
+bes1-D_H_174.96_1
+get RGB acquiring timeout.
+time: 2018-11-8-13-28-40-417
+189
+736_W_155.0_4
+get RGB acquiring timeout.
+time: 2019-1-16-11-40-50-633
+83
+bri1-301_W_69.64_3
+get RGB acquiring timeout.
+time: 2019-1-17-14-35-35-995
+172
+max2_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-19-11-4-48-386
+26
+baf1-SINAT-RNAi_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-19-14-35-24-75
+134
+bri1-301-S77_W_145.56_5
+get RGB acquiring timeout.
+time: 2019-1-19-14-49-30-818
+141
+WT_W_145.56_5
+get RGB acquiring timeout.
+time: 2019-1-19-14-57-38-74
+145
+baf1-SINAT-RNAi_H_145.56_5
+get RGB acquiring timeout.
+time: 2019-1-19-14-57-48-824
+145
+baf1-SINAT-RNAi_H_145.56_5
+get RGB acquiring timeout.
+time: 2019-1-19-15-11-51-915
+152
+baf1-SINAT-RNAi_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-19-17-32-46-386
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-32-59-495
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-33-12-73
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-33-24-650
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-33-37-228
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-33-49-806
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-34-2-384
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-34-14-961
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-34-27-539
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-34-40-117
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-34-52-694
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-35-5-272
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-35-17-850
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-35-30-428
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-35-43-5
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-35-55-583
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-36-8-161
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-36-20-738
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-36-33-316
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-36-45-894
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-44-45-399
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-44-54-76
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-45-3-476
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-17-45-12-924
+222
+baf1_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-19-18-13-47-276
+230
+S77_H_145.56_8
+get RGB acquiring timeout.
+time: 2019-1-21-12-37-14-419
+145
+baf1-SINAT-RNAi_H_145.56_5
+get RGB acquiring timeout.
+time: 2019-1-21-13-5-23-541
+163
+bri1-301-S77_H_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-13-15-41-756
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-0-214
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-6-771
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-13-296
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-19-818
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-26-393
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-32-995
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-39-558
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-46-194
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-52-817
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-12-59-444
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-6-53
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-12-614
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-19-166
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-25-781
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-32-421
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-39-13
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-45-542
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-52-194
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-13-58-866
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-5-414
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-11-940
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-18-452
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-24-979
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-31-483
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-38-7
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-44-528
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-51-75
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-14-14-57-612
+170
+S77_W_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-18-17-46-442
+171
+WT_H_145.56_6
+get RGB acquiring timeout.
+time: 2019-1-21-19-56-38-42
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-56-51-198
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-57-3-760
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-57-16-338
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-57-28-915
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-57-41-493
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-57-54-70
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-58-6-648
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-58-19-225
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-58-31-803
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-58-44-381
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-58-56-959
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-59-9-536
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-59-22-114
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-59-34-692
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-59-47-270
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-19-59-59-848
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-20-0-12-426
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-21-20-0-25-4
+225
+bri1-301_W_69.64_8
+get RGB acquiring timeout.
+time: 2019-1-22-9-5-21-407
+2
+max2_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-9-17-18-312
+3
+max2_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-9-21-48-232
+6
+S77_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-9-35-0-932
+15
+bes1-D_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-9-36-34-929
+16
+SINAT-RNAi_W_69.64_1
+get RGB acquiring timeout.
+time: 2019-1-22-9-48-20-633
+24
+baf1_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-9-51-22-859
+26
+baf1-SINAT-RNAi_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-10-22-38-792
+46
+bri1-301-S77_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-22-46-588
+46
+bri1-301-S77_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-30-5-219
+51
+max2_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-31-38-702
+52
+bes1-D_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-40-11-721
+52
+bes1-D_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-40-18-473
+52
+bes1-D_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-40-25-249
+52
+bes1-D_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-40-32-69
+52
+bes1-D_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-10-55-0-491
+1
+S343_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-9-16-715
+3
+max2_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-9-26-635
+3
+max2_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-9-34-82
+3
+max2_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-9-41-758
+3
+max2_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-23-4-592
+9
+S343_W_69.64_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-42-51-869
+18
+baf1-SINAT-RNAi_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-42-59-902
+18
+baf1-SINAT-RNAi_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-43-7-596
+18
+baf1-SINAT-RNAi_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-11-59-8-988
+25
+bri1-301-S77_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-12-1-42-790
+26
+baf1-SINAT-RNAi_H_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-12-4-8-196
+27
+bes1-D_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-12-4-15-905
+27
+bes1-D_W_145.56_1
+get RGB acquiring timeout.
+time: 2019-1-22-12-11-31-866
+30
+S343_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-12-13-58-821
+31
+S77_W_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-12-53-36-898
+48
+S343_W_69.64_2
+get RGB acquiring timeout.
+time: 2019-1-22-13-2-51-77
+52
+bes1-D_H_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-13-14-52-977
+58
+baf1_W_145.56_2
+get RGB acquiring timeout.
+time: 2019-1-22-15-2-40-925
+61
+S343_H_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-15-9-11-330
+63
+S77_W_69.64_3
+get RGB acquiring timeout.
+time: 2019-1-22-15-51-22-302
+72
+bri1-301_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-15-53-46-660
+72
+bri1-301_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-1-7-192
+75
+WT_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-9-33-328
+78
+max2_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-12-13-949
+79
+baf1-SINAT-RNAi_W_69.64_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-12-21-741
+79
+baf1-SINAT-RNAi_W_69.64_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-18-41-220
+81
+bri1-301-S77_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-24-9-991
+82
+S77_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-48-23-235
+82
+S77_W_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-55-23-210
+85
+baf1_H_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-16-57-44-104
+86
+max2_H_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-17-4-32-554
+89
+bri1-301-S77_H_145.56_3
+get RGB acquiring timeout.
+time: 2019-1-22-17-7-21-84
+89
+bri1-301-S77_H_145.56_3
+get RGB acquiring timeout.
+time: 2019-2-12-13-17-22-576
+3
+WT-1-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-13-22-39-378
+5
+WT-4-27_W_60.16_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-3-41-445
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-3-48-705
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-5-40-129
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-5-47-223
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-7-28-220
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-7-35-132
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-7-42-53
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-7-48-969
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-7-55-888
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-2-798
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-9-723
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-16-639
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-23-463
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-30-164
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-36-866
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-43-585
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-50-300
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-8-57-118
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-9-3-967
+18
+WT-3-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-10-39-322
+19
+WT-2-22_W_63.7_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-27-23-780
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-29-18-654
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-29-25-597
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-29-32-506
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-29-39-427
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-29-46-339
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-29-53-253
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-0-157
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-7-77
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-13-998
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-20-914
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-27-838
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-34-748
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-41-673
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-48-594
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-30-55-530
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-2-460
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-9-376
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-16-279
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-23-196
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-30-112
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-37-13
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-43-918
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-50-821
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-31-57-740
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-32-4-642
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-32-11-564
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-32-18-525
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-35-16-645
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-35-23-775
+29
+WT-2-27_W_152.2_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-37-2-790
+30
+WT-1-27_W_60.16_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-39-4-526
+30
+WT-1-27_W_60.16_1
+get RGB acquiring timeout.
+time: 2019-2-12-14-39-11-448
+30
+WT-1-27_W_60.16_1
+get RGB acquiring timeout.
+time: 2019-2-12-15-7-48-831
+30
+WT-1-27_W_60.16_1
+get RGB acquiring timeout.
+time: 2019-2-12-15-7-55-788
+30
+WT-1-27_W_60.16_1
+get RGB acquiring timeout.
+time: 2019-3-24-11-32-31-183
+102
+S77-4_W_72.3_3
+get RGB acquiring timeout.
+time: 2019-3-29-13-13-49-255
+133
+S77-4_W_151.64_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-13-56-689
+133
+S77-4_W_151.64_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-37-26-899
+145
+WT-3_W_72.3_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-39-29-149
+146
+WT-4_W_63.49_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-41-33-564
+147
+WT-3_W_151.64_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-43-36-127
+148
+WT-2_W_59.96_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-49-54-626
+150
+S77-1_W_72.3_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-52-1-530
+151
+S77-3_W_151.64_4
+get RGB acquiring timeout.
+time: 2019-3-29-13-58-2-753
+154
+S77-3_W_59.96_4
+get RGB acquiring timeout.
+time: 2019-3-29-14-2-12-501
+156
+S77-1_W_151.64_4
+get RGB acquiring timeout.
+time: 2019-3-29-14-4-16-295
+157
+S77-1_W_63.49_4
+get RGB acquiring timeout.
+time: 2019-3-29-14-4-23-713
+157
+S77-1_W_63.49_4
+get RGB acquiring timeout.
+time: 2019-3-29-14-8-25-435
+159
+WT-2_W_151.64_4
+get RGB acquiring timeout.
+time: 2019-3-29-14-10-28-635
+160
+S77-2_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-12-36-148
+161
+WT-1_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-16-15-883
+162
+S77-3_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-18-17-277
+163
+WT-4_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-20-17-229
+164
+S77-2_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-22-19-109
+165
+S77-3_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-24-22-728
+166
+S77-1_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-14-26-25-410
+167
+WT-1_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-20-39-821
+169
+S77-4_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-24-13-302
+170
+S77-3_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-27-58-110
+171
+WT-3_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-31-37-953
+172
+WT-2_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-35-19-549
+173
+S77-2_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-39-5-269
+174
+WT-4_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-41-5-372
+175
+WT-4_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-43-5-279
+176
+S77-4_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-43-12-902
+176
+S77-4_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-45-17-349
+177
+S77-3_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-47-20-861
+178
+WT-1_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-51-9-331
+179
+WT-2_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-54-55-356
+180
+WT-2_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-15-59-3-754
+181
+S77-1_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-1-9-779
+182
+WT-3_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-1-17-733
+182
+WT-3_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-3-23-865
+183
+WT-4_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-5-28-537
+184
+WT-4_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-7-34-715
+185
+S77-1_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-9-44-878
+186
+WT-3_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-13-53-87
+187
+S77-2_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-19-2-577
+188
+S77-1_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-21-11-701
+189
+WT-3_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-23-18-249
+190
+S77-2_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-25-28-84
+191
+WT-1_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-27-41-776
+192
+WT-1_W_72.3_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-29-49-735
+193
+S77-4_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-29-57-444
+193
+S77-4_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-32-8-185
+194
+S77-1_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-34-16-755
+195
+WT-2_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-36-24-626
+196
+S77-4_W_59.96_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-38-35-290
+197
+S77-3_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-38-43-181
+197
+S77-3_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-38-51-82
+197
+S77-3_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-42-9-199
+198
+S77-4_W_63.49_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-44-18-541
+199
+WT-3_W_56.44_5
+get RGB acquiring timeout.
+time: 2019-3-29-16-46-24-993
+200
+S77-1_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-48-32-926
+201
+WT-2_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-48-40-655
+201
+WT-2_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-50-48-487
+202
+S77-2_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-52-58-408
+203
+WT-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-55-8-560
+204
+S77-4_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-57-21-437
+205
+S77-1_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-16-59-27-404
+206
+S77-3_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-1-34-792
+207
+WT-4_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-1-42-854
+207
+WT-4_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-3-52-395
+208
+S77-1_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-3-59-968
+208
+S77-1_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-6-11-690
+209
+WT-2_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-8-24-367
+210
+S77-2_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-10-33-397
+211
+WT-3_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-12-40-899
+212
+S77-3_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-14-48-67
+213
+WT-2_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-16-54-796
+214
+S77-2_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-17-2-867
+214
+S77-2_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-19-15-114
+215
+S77-2_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-21-28-730
+216
+WT-4_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-23-36-297
+217
+WT-4_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-23-44-270
+217
+WT-4_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-25-53-44
+218
+WT-2_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-26-1-100
+218
+WT-2_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-28-8-644
+219
+WT-1_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-30-13-682
+220
+WT-3_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-32-20-977
+221
+WT-1_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-32-28-755
+221
+WT-1_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-34-42-89
+222
+WT-3_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-36-49-524
+223
+WT-3_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-36-57-83
+223
+WT-3_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-39-7-264
+224
+WT-1_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-41-14-96
+225
+WT-4_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-43-21-508
+226
+WT-1_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-45-30-892
+227
+S77-3_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-17-45-39-50
+227
+S77-3_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-0-9-144
+228
+S77-3_W_63.49_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-2-18-159
+229
+S77-3_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-4-27-196
+230
+S77-1_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-4-35-468
+230
+S77-1_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-6-47-914
+231
+S77-4_W_151.64_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-8-57-238
+232
+WT-2_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-11-7-84
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-11-15-355
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-11-25-345
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-11-35-392
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-11-45-264
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-11-55-143
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-12-5-145
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-12-14-774
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-12-24-668
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-12-34-574
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-12-44-607
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-12-54-507
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-13-4-442
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-13-14-531
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-13-24-234
+233
+S77-4_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-17-18-205
+234
+S77-1_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-19-27-981
+235
+WT-1_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-21-37-297
+236
+S77-4_W_56.44_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-23-51-174
+237
+S77-2_W_59.96_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-25-59-955
+238
+WT-3_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-29-18-28-10-264
+239
+S77-4_W_72.3_6
+get RGB acquiring timeout.
+time: 2019-3-30-10-22-47-386
+4
+WT-4_W_151.64_1
+get RGB acquiring timeout.
+time: 2019-3-30-10-26-43-711
+5
+S77-1_W_72.3_1
+get RGB acquiring timeout.
+time: 2019-3-30-12-21-49-307
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-12-33-17-622
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-12-33-24-364
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-12-33-31-102
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-10-266
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-16-998
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-23-735
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-30-465
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-37-213
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-43-958
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-50-716
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-43-57-452
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-4-192
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-10-930
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-17-669
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-24-420
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-31-155
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-37-897
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-44-634
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-51-373
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-44-58-132
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-4-892
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-11-627
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-18-370
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-25-121
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-31-875
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-38-612
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-45-388
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-52-138
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-45-58-880
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-5-635
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-12-374
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-19-119
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-25-847
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-32-604
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-39-355
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-46-114
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-52-854
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-46-59-582
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-6-331
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-13-70
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-19-798
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-26-527
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-33-278
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-40-9
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-46-759
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-47-53-506
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-48-0-257
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-49-51-226
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-49-57-968
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-4-714
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-11-475
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-18-225
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-24-978
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-31-730
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-38-472
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-45-214
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-13-50-51-950
+6
+WT-4_W_56.44_1
+get RGB acquiring timeout.
+time: 2019-3-30-14-31-17-764
+8
+WT-3_W_72.3_1
+get RGB acquiring timeout.
+time: 2019-3-30-14-31-24-513
+8
+WT-3_W_72.3_1
+get RGB acquiring timeout.
+time: 2019-3-30-14-31-31-296
+8
+WT-3_W_72.3_1
+get RGB acquiring timeout.
+time: 2019-3-30-14-35-46-969
+8
+WT-3_W_72.3_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-14-961
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-21-746
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-28-512
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-35-264
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-42-34
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-48-799
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-3-55-550
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-2-324
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-9-71
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-15-831
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-22-630
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-29-400
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-36-178
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-42-948
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-49-715
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-4-56-478
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-5-3-261
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-5-10-16
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-1-9-5-16-788
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-4-14-23-13-463
+185
+S77-1_W_151.64_5
+get RGB acquiring timeout.
+time: 2019-4-13-12-32-43-35
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-13-12-32-49-747
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-13-12-35-6-567
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-13-12-35-13-299
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-4-13-12-35-20-5
+0
+WT-4_W_59.96_1
+get RGB acquiring timeout.
+time: 2019-5-5-12-2-11-374
+117
+S77_H_141.56_4
+get RGB acquiring timeout.
+time: 2019-5-8-14-33-49-110
+173
+S343_W_141.56_6
+get RGB acquiring timeout.
+time: 2019-5-14-12-29-1-959
+110
+S343_H_141.56_4
+get RGB acquiring timeout.
+time: 2019-5-28-9-3-5-901
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-3-21-707
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-3-40-496
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-3-59-277
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-4-18-25
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-4-36-785
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-4-55-540
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-5-14-288
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-5-33-49
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-5-51-831
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-6-10-589
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-6-29-340
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-6-48-96
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-7-6-845
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-7-25-600
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-34-38-721
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-34-57-485
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-35-16-279
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-38-24-98
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-38-42-861
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-39-1-610
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-39-20-352
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-39-39-103
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-39-57-870
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-40-16-615
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-40-35-369
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-40-54-113
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-41-12-848
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-5-28-9-45-9-690
+0
+bri1-301_W_67.89_1
+get RGB acquiring timeout.
+time: 2019-6-18-10-57-44-52
+78
+bin2D-4_W_71.48_2
+get RGB acquiring timeout.
+time: 2019-6-28-10-58-34-205
+65
+WT-3_H_149.76_2
+get RGB acquiring timeout.
+time: 2019-7-10-11-47-6-237
+94
+bin2D-4_H_149.76_2
+get RGB acquiring timeout.
+time: 2019-7-13-17-7-28-811
+179
+bin2D-4_W_149.76_3
+get RGB acquiring timeout.
+time: 2019-9-14-14-18-31-584
+198
+WT1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-37-7-940
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-37-17-823
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-37-27-206
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-37-36-627
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-37-46-36
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-37-55-451
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-38-4-871
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-38-14-269
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-38-23-676
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-38-33-75
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-38-42-505
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-38-51-901
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-1-311
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-10-719
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-20-128
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-29-566
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-38-947
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-48-343
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-39-57-779
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-40-7-176
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-40-16-588
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-40-25-999
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-40-35-401
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-40-44-824
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-40-54-223
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-41-3-625
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-41-13-53
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-41-22-458
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-41-31-862
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-41-41-272
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-41-50-666
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-42-0-85
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-42-9-488
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-42-18-896
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-59-8-258
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-59-18-17
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-59-27-439
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-59-36-856
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-59-46-222
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-14-59-55-625
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-0-5-42
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-0-14-443
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-0-23-851
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-0-33-263
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-0-42-670
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-0-52-61
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-1-1-488
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-1-10-892
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-1-20-303
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-1-29-709
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-9-26-15-1-39-119
+180
+baf1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-1-9-39-57-196
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-12-410
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-20-115
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-27-824
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-35-523
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-43-236
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-50-944
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-42-58-662
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-6-367
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-14-75
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-21-787
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-29-499
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-37-208
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-44-918
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-43-52-624
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-0-334
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-8-38
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-15-738
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-23-447
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-31-153
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-38-855
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-46-566
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-44-54-272
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-1-980
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-9-689
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-17-389
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-25-97
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-32-805
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-40-512
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-48-252
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-45-55-986
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-3-733
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-11-470
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-19-214
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-26-937
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-34-666
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-42-399
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-50-141
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-46-57-874
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-9-47-5-624
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-1-22-819
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-1-30-580
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-1-38-328
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-1-46-93
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-1-53-819
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-1-563
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-9-316
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-17-58
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-24-801
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-32-555
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-40-319
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-48-66
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-2-55-819
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-3-568
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-11-339
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-20-75
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-27-794
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-35-518
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-43-256
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-51-2
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-3-58-767
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-6-500
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-14-237
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-21-982
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-29-731
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-37-476
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-45-217
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-4-52-963
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-0-713
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-8-457
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-16-216
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-23-955
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-31-696
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-39-453
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-47-193
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-5-54-934
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-6-2-677
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-6-10-415
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-15-38-60
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-15-45-808
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-15-53-561
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-1-314
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-9-66
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-16-826
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-24-588
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-32-361
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-40-98
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-48-307
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-16-56-42
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-3-821
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-11-565
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-19-308
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-27-89
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-34-824
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-42-568
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-50-348
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-17-58-126
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-5-877
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-13-652
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-21-394
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-29-172
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-36-915
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-44-663
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-18-52-437
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-19-0-204
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-1-10-19-7-967
+22
+dm-1_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-30-46-289
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-32-43-186
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-32-50-913
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-32-58-614
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-6-329
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-14-40
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-21-737
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-29-448
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-37-184
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-44-921
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-33-52-646
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-0-386
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-8-126
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-15-829
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-23-572
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-31-323
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-39-72
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-46-791
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-34-54-519
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-2-254
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-9-987
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-17-725
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-25-452
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-33-185
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-40-917
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-48-640
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-35-56-367
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-4-93
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-11-810
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-19-546
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-27-279
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-35-11
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-42-745
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-50-488
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-36-58-200
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-37-5-951
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-37-13-689
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-37-21-433
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-37-29-170
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-37-36-904
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-10-37-44-641
+52
+WT2-3_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-22-17-210
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-22-27-108
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-22-36-529
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-22-45-924
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-22-55-344
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-23-4-754
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-23-14-186
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-23-23-597
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-23-33-26
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-23-42-474
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-23-51-883
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-1-317
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-10-712
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-20-129
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-29-549
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-38-972
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-48-373
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-24-57-807
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-25-7-208
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-25-16-632
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-25-26-61
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-25-35-454
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-25-44-878
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-25-54-296
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-26-3-726
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-26-13-166
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-26-22-551
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-26-31-980
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-26-41-406
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-26-50-817
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-27-0-237
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-27-9-660
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-27-19-68
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-27-28-495
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-43-40-627
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-45-50-497
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-45-57-242
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-4-17
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-10-765
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-17-522
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-24-272
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-31-28
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-37-783
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-44-524
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-51-288
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-46-58-33
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-4-786
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-11-531
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-18-311
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-25-83
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-31-852
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-38-599
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-45-343
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-52-88
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-47-58-836
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-5-586
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-12-344
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-19-110
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-25-848
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-32-588
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-39-339
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-46-107
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-52-866
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-48-59-635
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-6-377
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-13-123
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-19-872
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-26-613
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-33-354
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-40-108
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-46-843
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-49-53-594
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-0-337
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-7-64
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-13-810
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-20-522
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-27-233
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-33-940
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-40-654
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-11-50-47-364
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-2-13-43-12-446
+78
+wnk1-3_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-13-45-5-315
+78
+wnk1-3_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-13-46-39-703
+79
+abi5-3_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-14-34-0-844
+107
+baf1-3_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-14-37-58-268
+108
+abi5-4_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-14-39-33-852
+109
+WT2-3_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-14-41-8-565
+110
+WT2-1_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-14-42-43-444
+111
+baf1-3_W_168.96_2
+get RGB acquiring timeout.
+time: 2019-10-2-15-2-43-558
+112
+WT1-4_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-15-5-46-521
+114
+fer-3_W_168.96_2
+get RGB acquiring timeout.
+time: 2019-10-2-15-17-43-686
+119
+wnk1-2_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-15-20-3-853
+119
+wnk1-2_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-2-15-26-13-354
+121
+baf1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-31-18-927
+122
+fer-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-34-15-318
+122
+fer-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-39-51-983
+123
+wnk1-2_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-43-28-22
+125
+baf1-1_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-50-15-880
+127
+wnk1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-50-23-219
+127
+wnk1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-53-30-861
+127
+wnk1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-55-56-966
+127
+wnk1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-15-57-57-841
+128
+fer-2_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-3-40-296
+130
+WT2-4_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-5-16-662
+131
+WT1-1_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-6-54-889
+132
+WT2-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-7-2-888
+132
+WT2-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-9-7-931
+133
+WT1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-9-15-337
+133
+WT1-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-14-46-566
+136
+WT1-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-18-1-387
+136
+WT1-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-21-19-157
+137
+dm-1_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-29-3-568
+140
+WT1-4_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-41-57-423
+147
+WT1-2_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-45-30-574
+149
+WT2-4_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-49-36-871
+151
+dm-4_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-2-16-54-41-766
+152
+dm-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-17-0-28-927
+153
+baf1-4_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-2-21-2-54-588
+187
+abi5-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-2-21-11-17-482
+191
+fer-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-10-46-4-811
+55
+dm-3_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-4-10-48-9-752
+56
+WT1-3_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-4-10-48-20-383
+56
+WT1-3_W_168.96_1
+get RGB acquiring timeout.
+time: 2019-10-4-10-50-25-129
+57
+WT1-2_W_79.99_1
+get RGB acquiring timeout.
+time: 2019-10-4-10-57-34-212
+61
+WT1-3_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-11-7-8-962
+66
+abi5-3_W_168.96_2
+get RGB acquiring timeout.
+time: 2019-10-4-11-9-16-193
+67
+fer-1_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-11-11-9-608
+68
+abi5-2_W_168.96_2
+get RGB acquiring timeout.
+time: 2019-10-4-11-58-20-91
+91
+WT2-2_W_168.96_2
+get RGB acquiring timeout.
+time: 2019-10-4-12-0-36-631
+91
+WT2-2_W_168.96_2
+get RGB acquiring timeout.
+time: 2019-10-4-12-40-54-234
+112
+WT1-4_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-12-41-4-169
+112
+WT1-4_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-12-41-13-845
+112
+WT1-4_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-12-43-8-415
+113
+WT2-2_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-12-49-1-260
+116
+wnk1-1_W_79.99_2
+get RGB acquiring timeout.
+time: 2019-10-4-13-58-52-773
+152
+dm-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-1-3-566
+153
+baf1-4_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-3-11-357
+154
+abi5-4_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-11-10-322
+157
+wnk1-1_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-21-10-115
+161
+dm-1_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-23-16-22
+161
+dm-1_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-26-34-260
+162
+fer-4_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-33-35-124
+165
+baf1-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-37-56-910
+166
+abi5-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-39-54-186
+166
+abi5-3_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-45-49-768
+169
+wnk1-1_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-46-0-351
+169
+wnk1-1_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-50-0-686
+170
+baf1-4_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-51-56-669
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-52-7-591
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-54-14-853
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-54-24-571
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-54-34-290
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-54-44-8
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-54-53-740
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-55-3-474
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-55-13-193
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-55-22-896
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-55-32-630
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-55-42-348
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-55-52-51
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-56-1-754
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-56-11-488
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-56-21-207
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-56-30-910
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-56-40-644
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-56-50-362
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-0-81
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-9-784
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-19-502
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-29-205
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-38-908
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-48-626
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-57-58-345
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-58-8-32
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-58-17-766
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-58-27-500
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-58-37-219
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-58-46-921
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-58-56-640
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-59-6-343
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-14-59-16-46
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-55-12-94
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-55-21-828
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-55-31-562
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-55-41-296
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-55-51-31
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-0-765
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-10-530
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-20-280
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-30-61
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-39-795
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-49-529
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-56-59-263
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-57-9-309
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-57-19-28
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-57-28-777
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-57-38-511
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-57-48-245
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-57-57-980
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-58-7-714
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-58-17-432
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-58-27-166
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-58-36-900
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-58-46-617
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-58-56-351
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-59-6-69
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-59-15-788
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-59-25-522
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-59-35-287
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-59-45-5
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-15-59-54-740
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-0-4-474
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-0-14-192
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-34-20-695
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-40-34-267
+171
+fer-5_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-45-44-428
+172
+dm-2_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-48-40-404
+172
+dm-2_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-50-53-649
+173
+WT1-2_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-56-46-256
+175
+wnk1-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-56-56-840
+175
+wnk1-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-16-57-6-592
+175
+wnk1-3_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-17-0-47-266
+177
+abi5-4_W_79.99_3
+get RGB acquiring timeout.
+time: 2019-10-4-17-6-55-983
+179
+fer-4_W_168.96_3
+get RGB acquiring timeout.
+time: 2019-10-4-17-14-14-515
+181
+dm-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-18-57-173
+182
+WT2-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-19-7-595
+182
+WT2-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-21-21-71
+183
+WT1-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-21-31-462
+183
+WT1-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-30-44-98
+186
+fer-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-34-48-193
+188
+dm-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-34-59-161
+188
+dm-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-40-45-463
+191
+fer-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-40-55-253
+191
+fer-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-44-56-645
+193
+wnk1-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-48-49-362
+194
+baf1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-49-1-222
+194
+baf1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-17-53-0-376
+196
+wnk1-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-0-12-361
+198
+WT1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-5-45-76
+199
+WT2-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-13-34-624
+203
+fer-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-16-57-847
+203
+fer-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-18-41-466
+203
+fer-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-22-30-117
+204
+WT2-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-22-40-71
+204
+WT2-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-25-7-585
+204
+WT2-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-29-42-910
+204
+WT2-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-33-26-214
+205
+abi5-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-35-25-987
+206
+fer-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-37-20-388
+207
+wnk1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-40-35-886
+207
+wnk1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-42-22-438
+207
+wnk1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-44-2-192
+207
+wnk1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-45-42-690
+207
+wnk1-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-51-1-338
+208
+WT2-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-51-12-307
+208
+WT2-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-53-14-88
+209
+abi5-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-53-24-244
+209
+abi5-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-55-29-21
+210
+fer-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-57-53-775
+210
+fer-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-18-59-51-898
+211
+WT1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-1-33-500
+211
+WT1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-3-29-162
+212
+fer-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-6-29-240
+212
+fer-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-8-14-28
+212
+fer-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-9-53-905
+212
+fer-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-12-3-9
+212
+fer-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-15-46-65
+213
+WT2-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-17-59-300
+214
+baf1-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-19-54-88
+214
+baf1-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-23-51-279
+215
+abi5-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-29-14-673
+216
+dm-5_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-33-37-388
+217
+fer-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-35-51-70
+218
+baf1-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-37-47-902
+219
+WT1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-40-3-43
+220
+WT1-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-42-0-380
+221
+dm-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-44-4-844
+221
+dm-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-45-44-789
+221
+dm-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-47-24-957
+221
+dm-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-49-5-26
+221
+dm-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-52-33-109
+222
+WT2-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-54-25-577
+222
+WT2-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-19-56-28-96
+223
+dm-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-3-12-18
+223
+dm-5_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-4-52-863
+224
+fer-5_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-9-29-144
+225
+fer-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-14-4-718
+226
+fer-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-22-54-848
+227
+WT2-1_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-24-37-32
+228
+baf1-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-38-30-322
+228
+baf1-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-38-40-446
+228
+baf1-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-40-41-193
+228
+baf1-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-40-51-292
+228
+baf1-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-43-11-28
+229
+dm-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-45-6-541
+230
+abi5-2_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-47-20-959
+231
+wnk1-4_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-49-18-829
+232
+wnk1-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-49-28-985
+232
+wnk1-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-49-38-669
+232
+wnk1-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-53-29-972
+232
+wnk1-2_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-57-54-523
+233
+WT2-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-20-58-4-218
+233
+WT2-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-1-34-870
+233
+WT2-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-8-12-856
+234
+wnk1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-10-16-686
+234
+wnk1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-12-25-349
+234
+wnk1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-14-4-132
+234
+wnk1-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-16-25-23
+235
+abi5-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-18-58-356
+235
+abi5-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-22-45-381
+235
+abi5-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-24-34-944
+235
+abi5-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-27-49-208
+235
+abi5-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-29-37-689
+235
+abi5-3_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-31-54-698
+236
+dm-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-33-50-51
+236
+dm-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-35-56-605
+236
+dm-1_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-38-17-98
+237
+wnk1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-38-27-779
+237
+wnk1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-40-6-653
+237
+wnk1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-43-19-587
+237
+wnk1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-45-41-685
+237
+wnk1-3_W_79.99_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-47-39-238
+238
+dm-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-50-39-713
+238
+dm-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-52-25-257
+238
+dm-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-10-4-21-54-45-943
+239
+abi5-4_W_168.96_4
+get RGB acquiring timeout.
+time: 2019-11-13-13-50-48-538
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-52-42-8
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-52-49-434
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-52-56-811
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-4-190
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-11-592
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-18-939
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-26-322
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-33-697
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-41-81
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-48-446
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-53-55-858
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-3-270
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-10-655
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-18-77
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-25-440
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-32-812
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-40-221
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-47-584
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-54-54-951
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-2-367
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-9-751
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-17-163
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-24-570
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-31-932
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-39-301
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-46-663
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-55-54-43
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-1-402
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-8-810
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-16-175
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-23-572
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-30-980
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-38-370
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-45-745
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-56-53-127
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-57-0-499
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-57-7-867
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-57-15-305
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-57-22-681
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-57-30-88
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-13-13-57-37-461
+28
+BRI1ox-1_W_157.36_1
+get RGB acquiring timeout.
+time: 2019-11-22-15-23-12-140
+213
+bes1D-3_W_340.56_4

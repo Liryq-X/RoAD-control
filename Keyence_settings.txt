@@ -1,0 +1,11 @@
+Direct setting.
+	Common measure set: Operation mode High-speed, Parallel off, Memory Single buffer(overwrite)
+
+	Image setting:	
+		Common head: x z direction full, binning off, 
+		Head A: High dynamic range 1, exposure time 480us,  Control light intensity AUTO, Peack detec. sensitivity 5 High, Intrpol pts inval data 0, Peak selection Standard, Peak width filter ON, Imaging mode Standard
+	Trigger setting: Continuous trigger, Samp freq 2KHz, Pitch Do not set, Batch OFF
+	Profile:	
+		Common head: Compression OFF, Dead zone process valid
+		Head A: 1 OFF 1 OFF 0 0
+				
