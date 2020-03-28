@@ -6,9 +6,10 @@ move_joint_speed_: 1.5
 move_joint_acceleration_: 1.0
 view_time_: 0
 exposure_time_: 350000.
-day_th_1_:10
-day_th_2_: 24
-well_watered_target_weight_: 157.36
+day_th_1_:6
+day_th_2_: 20
+day_th_3_: 30
+well_watered_target_weight_: 144.64
 slower_drought_: 1
 move_arm_speed_water_: 0.4
 move_arm_acceleration_water_: 0.25

@@ -200,6 +200,7 @@ void VisionArmCombo::initVisionCombo()
 		fs["exposure_time_"] >> exposure_time_;
 		fs["day_th_1_"] >> day_th_1_;
 		fs["day_th_2_"] >> day_th_2_;
+		fs["day_th_3_"] >> day_th_3_;
 		fs["well_watered_target_weight_"] >> well_watered_target_weight_;
 		fs["slower_drought_"] >> slower_drought_;
 		fs["move_arm_speed_water_"] >> move_arm_speed_water_;
@@ -210,6 +211,7 @@ void VisionArmCombo::initVisionCombo()
 	}
 	cout << "day_th_1_: " << day_th_1_ << endl;
 	cout << "day_th_2_: " << day_th_2_ << endl;
+	cout << "day_th_3_: " << day_th_3_ << endl;
 	cout << "well_watered_target_weight_: " << well_watered_target_weight_ << endl;
 	cout << "slower_drought_: " << slower_drought_ << endl;
 
@@ -3012,6 +3014,7 @@ void VisionArmCombo::gotoBalance(int pot_id)
 		pass_.setFilterLimits(0.01, 0.1);
 		pass_.filter(*scan_cloud);
 
+		std::cerr << "filtered scan_cloud size: " << scan_cloud->size() << std::endl;
 		// empty point cloud, return;
 		/*
 		if (scan_cloud->size() < 100)
@@ -3022,21 +3025,25 @@ void VisionArmCombo::gotoBalance(int pot_id)
 			
 			//reset laser scanner
 			//i=i-1
+
+			/*
 			std::cerr << "i: " << i << ", point cloud size less than 100.\n";
 			line_profiler_->stop();
-			Sleep(100);
+			Sleep(1000);
 			line_profiler_->finalize();
-			Sleep(100);
+			Sleep(1000);
 			line_profiler_->init();
-			Sleep(100);
+			Sleep(1000);
 
 			std::cerr << "reset laser scanner done\n";
 
 			i = i - 1;
 
 			std::cerr << "redo, i: " << i << std::endl;
+			*/
+			Sleep(1000);
 
-			break;
+			//break;
 		}
 
 
@@ -3227,7 +3234,8 @@ void VisionArmCombo::gotoBalance(int pot_id)
 	float tmp;
 	tmp = pot_map_[pot_id].target_weight;
 
-	//comment this part for exp 13
+	// this part for exp 13
+	/*
 	if (slower_drought_) {
 
 		// for exp13 only
@@ -3261,9 +3269,9 @@ void VisionArmCombo::gotoBalance(int pot_id)
 			final_target_weight = tmp;
 		}
 	
-	}
+	}*/
 
-	/* uncomment this part for exp after 13
+	// uncomment this part for exp after 13
 	
 	if (slower_drought_) {
 		
@@ -3271,29 +3279,49 @@ void VisionArmCombo::gotoBalance(int pot_id)
 			final_target_weight = well_watered_target_weight_;
 		else if (current_day_count < day_th_2_)
 			final_target_weight = (-well_watered_target_weight_ + pot_map_[pot_id].target_weight) / (day_th_2_ - day_th_1_)*(current_day_count - day_th_1_) + well_watered_target_weight_;
+		else if (current_day_count > day_th_3_)
+			final_target_weight = well_watered_target_weight_;
 		else {
 			final_target_weight = pot_map_[pot_id].target_weight;
 		}
 	
 	}
-	*/
 
 	cout << "slower_drought_: "<< slower_drought_<<"pot_id: "<< pot_map_[pot_id].label<<"final_target_weight: " << final_target_weight << endl;
 
 	if ((pump->getWeight(3)+0.5f) < final_target_weight) {
 	
 		//water
-		if (pot_map_[pot_id].water) {
+		//if (pot_map_[pot_id].water) {
+		if (1) {  //current_day_count%2 ==1
 			double waterconfig[6] = { 129.17, -58.7, -150.48, -60.81, 269.88, -39.22 }; // { 136.01, -48.31, -155.08, -66.46, 270.02, -45.88 }
 
 			for (int i = 0; i < 6; i++) waterconfig[i] = waterconfig[i] / 180.*M_PI;
 			robot_arm_client_->moveHandJ(waterconfig, move_joint_speed_, move_joint_acceleration_, true);
 			//Sleep(1000);
+
+
+			std::cerr << "watering...\n";
+
+			Sleep(500);
+
+			getWater(final_target_weight, 1);
+
 		}
 		else {
 			double waterconfig[6] = { 111.21, -70.22, -145.30, -54.46, 269.87, -21.24 }; // { 112.55, -69.44, -148.48, -52.01, 270.03, -22.41 };
 			for (int i = 0; i < 6; i++) waterconfig[i] = waterconfig[i] / 180.*M_PI;
 			robot_arm_client_->moveHandJ(waterconfig, move_joint_speed_, move_joint_acceleration_, true);
+
+
+			std::cerr << "watering...\n";
+
+			Sleep(500);
+
+			std:cerr << "start watering from pcz tank\n";
+
+			getWater(final_target_weight, 0);
+
 		}
 
 
@@ -3302,15 +3330,10 @@ void VisionArmCombo::gotoBalance(int pot_id)
 
 		//std::future<int> fu = std::async(std::launch::async,&VisionArmCombo::getWater, this, 3, true);
 
-		std::cerr << "watering...\n";
-
-		Sleep(500);
-
-	
 
 		//std::cout << "pot_id: " << pot_id << " target_weight: " << pot_map_[pot_id].target_weight << " water: " << pot_map_[pot_id].water << std::endl;
 
-		getWater(final_target_weight, pot_map_[pot_id].water);
+		//getWater(final_target_weight, pot_map_[pot_id].water);
 
 		//getWater(pot_map_[pot_id].target_weight, pot_map_[pot_id].water);
 
@@ -4436,31 +4459,35 @@ int VisionArmCombo::getWater(float weight, bool b) {  //target weight
 
 	}
 	else { //z=60 mm
+		cout << "get water from pcz tank\n";
 		deltax = 0.012f;
-		deltay = 0.016f;
+		deltay = 0.01f;
 		if (xyz_mode) {
-				std::vector<double> water_config_pos_7 = { -0.006 + deltax, 0.397 + deltay, 0.464, 0, 0, M_PI };  //111.58, -71.38, -147.42, -51.12, 270.02, -21.44
+				std::vector<double> water_config_pos_7 = { 0.003 + deltax, 0.383+deltay, 0.464, 0, 0, M_PI };  //111.58, -71.38, -147.42, -51.12, 270.02, -21.44
 				water_config_pos.push_back(water_config_pos_7);
 
-				std::vector<double> water_config_pos_0 = { -0.014 + deltax, 0.375 + deltay, 0.464, 0, 0, M_PI }; //112.55, -69.44, -148.48, -52.01, 270.03, -22.41
+				std::vector<double> water_config_pos_0 = { 0.011 + deltax, 0.370 + deltay, 0.464, 0, 0, M_PI }; //112.55, -69.44, -148.48, -52.01, 270.03, -22.41
 				water_config_pos.push_back(water_config_pos_0);
 
-				std::vector<double> water_config_pos_1 = { -0.006 + deltax, 0.354 + deltay, 0.464, 0, 0, M_PI }; //113.00, -66.40, -149.98, -53.54, 270.04, -22.86
+				std::vector<double> water_config_pos_1 = { 0.024 + deltax, 0.365+ deltay, 0.464, 0, 0, M_PI }; //113.00, -66.40, -149.98, -53.54, 270.04, -22.86 //////
 				water_config_pos.push_back(water_config_pos_1);
 
-				std::vector<double> water_config_pos_2 = { 0.016 + deltax, 0.348 + deltay, 0.464, 0, 0, M_PI }; //110.22, -65.26, -150.50, -54.71, 270.04, -20.08 
+				std::vector<double> water_config_pos_2 = { 0.036 + deltax, 0.371 + deltay, 0.464, 0, 0, M_PI }; //110.22, -65.26, -150.50, -54.71, 270.04, -20.08 
 				water_config_pos.push_back(water_config_pos_2);
 
-				std::vector<double> water_config_pos_3 = { 0.034 + deltax, 0.353 + deltay, 0.464, 0, 0, M_PI }; //106.44, -67.27, -149.56, -53.11, 270.05, -16.31
+				std::vector<double> water_config_pos_3 = { 0.040 + deltax, 0.381 + deltay, 0.464, 0, 0, M_PI }; //106.44, -67.27, -149.56, -53.11, 270.05, -16.31
 				water_config_pos.push_back(water_config_pos_3);
 
-				std::vector<double> water_config_pos_4 = { 0.043 + deltax, 0.377 + deltay, 0.464, 0, 0, M_PI }; //104.75, -69.99, -148.17, -51.77, 270.04, -14.62 
+				//std::vector<double> water_config_pos_4 = { 0.043 + deltax, 0.377 + deltay, 0.464, 0, 0, M_PI }; //104.75, -69.99, -148.17, -51.77, 270.04, -14.62 
+				//water_config_pos.push_back(water_config_pos_4);
+
+				std::vector<double> water_config_pos_4 = { 0.033 + deltax, 0.394 + deltay, 0.464, 0, 0, M_PI };  //105.57, -72.52, -146.76, -50.66, 270.04, -15.43 
 				water_config_pos.push_back(water_config_pos_4);
 
-				std::vector<double> water_config_pos_5 = { 0.038 + deltax, 0.399 + deltay, 0.464, 0, 0, M_PI };  //105.57, -72.52, -146.76, -50.66, 270.04, -15.43 
+				std::vector<double> water_config_pos_5 = { 0.017 + deltax, 0.394 + deltay, 0.464, 0, 0, M_PI };  //108.17, -73.30, -146.31, -50.33, 270.04, -18.04
 				water_config_pos.push_back(water_config_pos_5);
 
-				std::vector<double> water_config_pos_6 = { 0.016 + deltax, 0.407 + deltay, 0.464, 0, 0, M_PI };  //108.17, -73.30, -146.31, -50.33, 270.04, -18.04
+				std::vector<double> water_config_pos_6 = { 0.008 + deltax, 0.389 + deltay, 0.464, 0, 0, M_PI }; //104.75, -69.99, -148.17, -51.77, 270.04, -14.62 
 				water_config_pos.push_back(water_config_pos_6);
 
 		}
@@ -4526,6 +4553,8 @@ int VisionArmCombo::getWater(float weight, bool b) {  //target weight
 		return 1;
 
 	//run
+	cout << "watering in circle\n";
+
 	if (b) {
 		robot_arm_client_->setDigitalOutput(switch_id, false);
 	}

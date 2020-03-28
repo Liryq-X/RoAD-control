@@ -23,7 +23,7 @@ public:
 	CSerial();
 	~CSerial();
 
-	BOOL Open( int nPort = 2, int nBaud = 9600 ); //com3
+	BOOL Open( int nPort = 4, int nBaud = 9600 ); //com3
 	BOOL Close( void );
 
 	int ReadData( void *, int );

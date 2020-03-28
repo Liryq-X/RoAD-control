@@ -4490,3 +4490,487 @@ get RGB acquiring timeout.
 time: 2019-11-22-15-23-12-140
 213
 bes1D-3_W_340.56_4
+get RGB acquiring timeout.
+time: 2019-12-20-9-41-37-267
+7
+S077-3_W_143.08_1
+get RGB acquiring timeout.
+time: 2019-12-23-12-19-34-334
+106
+S077-3_W_68.67_2
+get RGB acquiring timeout.
+time: 2020-3-12-12-59-43-489
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-12-59-53-432
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-2-796
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-12-198
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-21-623
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-31-30
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-40-447
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-49-860
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-0-59-325
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-1-8-698
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-1-18-96
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-1-27-525
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-1-36-931
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-1-46-344
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-1-55-740
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-2-5-247
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-2-14-573
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-2-23-991
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-2-33-401
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-2-42-812
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-2-52-241
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-1-653
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-11-144
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-20-474
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-29-880
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-39-302
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-48-700
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-3-58-133
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-4-7-547
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-4-17-65
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-4-26-367
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-4-35-768
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-11-39-32
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-11-47-455
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-11-57-4
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-12-6-318
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-12-15-682
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-12-13-12-25-224
+132
+S045-1_W_144.64_3
+get RGB acquiring timeout.
+time: 2020-3-19-16-54-39-189
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-56-42-382
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-56-50-116
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-56-58-66
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-5-804
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-13-535
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-21-270
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-29-3
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-36-741
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-44-478
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-52-205
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-57-59-933
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-7-669
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-15-409
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-23-141
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-30-869
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-38-613
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-46-350
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-58-54-717
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-2-450
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-10-191
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-17-931
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-25-678
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-33-417
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-41-149
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-48-894
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-16-59-56-631
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-4-363
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-12-104
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-19-832
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-27-567
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-35-311
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-43-47
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-50-786
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-0-58-562
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-1-6-296
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-1-14-27
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-1-21-751
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-1-29-489
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-1-37-236
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-1-44-975
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-8-39-733
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-8-47-490
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-8-55-868
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-3-610
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-11-360
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-19-99
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-26-849
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-34-620
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-42-368
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-50-137
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-9-57-897
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-6-231
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-13-967
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-21-720
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-29-471
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-37-213
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-44-970
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-10-53-1
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-0-745
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-8-482
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-16-229
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-23-984
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-31-732
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-39-479
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-47-227
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-11-54-984
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-2-732
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-10-481
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-18-214
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-25-975
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-33-727
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-41-485
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-49-240
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-12-57-278
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-13-5-33
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-13-12-789
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-13-20-535
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-13-28-275
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-13-36-20
+219
+S294-1_W_69.36_4
+get RGB acquiring timeout.
+time: 2020-3-19-17-13-43-760
+219
+S294-1_W_69.36_4

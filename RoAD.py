@@ -224,7 +224,7 @@ finshBox.append("Subject: The Robot Finished!!!")
 finshBox.append("This is an automatically sent email.\n\nThe robot have finished work today.\n\nThe data will be backed up to RoAdData/\n\nNext run time: 9 am")
 
 
-emailBox=["lr_xiang@hotmail.com","jmelmore@iastate.edu","pingw@iastate.edu"]
+emailBox=["lr_xiang@hotmail.com","jmelmore@iastate.edu","pingw@iastate.edu","akono@iastate.edu"]
 
 def sendEmail(emailID, finished):
 		#send to Lirong
@@ -351,12 +351,12 @@ def RoAdWatcher():
 						count=0
 						last_pot_id_=current_pot_id_
 
-					if count>10:  #more than 300 sec
+					if count>20:  #more than 30*20 sec = 10 min
 						print "time out caught, restart"
 						proc.kill()
 						#send an email
 						for i in range(len(emailBox)):
-                                                 	sendEmail(i, 0)
+							sendEmail(i, 0)
 						
 						#wait for user input
 						while True:    # infinite loop
@@ -390,7 +390,7 @@ def RoAdWatcher():
 			print "finish all the pots today, start to back up data"
 			folder_name=str(now.year)+"-"+str(now.month)+"-"+str(now.day)
 			fromDirectory = "C:/RoAdData/" +folder_name
-			toDirectory = "C:/Users/phenobot/Box/RoAdData/experiment13/" + folder_name
+			toDirectory = "C:/Users/phenobot/Box/RoAdData/experiment15/" + folder_name
 			
 			copy_tree(fromDirectory, toDirectory)	
 
@@ -407,6 +407,7 @@ def RoAdWatcher():
 			#send a email
 			for i in range(len(emailBox)):
 				sendEmail(i, 1)
+				time.sleep(1)
 #			notify_managers(1)
 		else:
 			if now.hour>14 or now.hour<8:

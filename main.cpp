@@ -14,7 +14,10 @@ int main(int argc, char** argv) {  //before testing water
 
 	//for (int i=0;i<10;i++) 
 	//	std::cout<<"weight: "<<pump->getWeight(3)<<std::endl;
-	
+	cout << "set two pumps to brake\n";
+	RobotArmClient* robot_arm_client_t = new RobotArmClient;
+	robot_arm_client_t->setDigitalOutput(7, false);
+	robot_arm_client_t->setDigitalOutput(6, false);
 
 	for (int i = 0; i < argc; i++)
 		std::cout << "argv: " << i << ": " << argv[i] << std::endl;
@@ -22,17 +25,17 @@ int main(int argc, char** argv) {  //before testing water
 	VisionArmCombo vac;
 	vac.label_file_path = argv[1];
 	cout << "label_file_path: " << vac.label_file_path << endl;
-
 	/*
+	
 	cout << "test pump\n";
 
-	Motor* pump = new Motor();
+	Motor* pump = new Motor(); //  define serail port num  here
 
 	while(1)
 		cout<<"weight: "<<pump->getWeight(3);
 
-	cout << "test finish\n";
-	*/
+	cout << "test finish\n";*/
+	
 	vac.initVisionCombo();
 
 
@@ -41,8 +44,8 @@ int main(int argc, char** argv) {  //before testing water
 
 	// PLACE_POT=1 PICK_POT=0
 
-	//vac.placePots(PLACE_POT);
-	vac.placePots(PICK_POT);
+	vac.placePots(PLACE_POT);
+	//vac.placePots(PICK_POT);
 	//vac.justScan(); //if just sacn, comment initPotMap, becaue the label file confilict
 	//vac.justImage();// if just image, comment initPotMap, becaue the label file confilict
 

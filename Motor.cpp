@@ -2,7 +2,7 @@
 
 
 Motor::Motor() {
-	serial.Open(2, 9600);
+	serial.Open(4, 9600);
 }
 
 Motor::~Motor() {

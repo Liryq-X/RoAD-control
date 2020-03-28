@@ -235,6 +235,8 @@ struct VisionArmCombo
 
 	int day_th_2_ = 21;
 
+	int day_th_3_ = 30;
+
 	string corn_height_ = "high";
 
 	float well_watered_target_weight_ = 152.f;
